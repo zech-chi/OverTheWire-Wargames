@@ -4,6 +4,8 @@
 
 # Solution: 
 
+![image](https://github.com/zakaria0101echifaouy/OverTheWire-Wargames/assets/108145379/be29505a-d007-4819-892e-813fdd16f645)
+
 # RTFM!:
 
 ### find:
