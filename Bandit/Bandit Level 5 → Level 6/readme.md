@@ -1,20 +1,6 @@
 # subject:
 
-Bandit Level 5 → Level 6
-
-Level Goal
-
-The password for the next level is stored in a file somewhere under the inhere directory and has all of the following properties:
-
-human-readable
-
-1033 bytes in size
-
-not executable
-
-Commands you may need to solve this level
-
-ls , cd , cat , file , du , find
+![image](https://github.com/zakaria0101echifaouy/OverTheWire-Wargames/assets/108145379/8969dd00-b098-4bfc-8c35-ac64b290b28c)
 
 # solution:
 
